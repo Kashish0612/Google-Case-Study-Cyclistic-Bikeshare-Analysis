@@ -11,11 +11,13 @@ In 2016, Cyclistic launched a successful bike-share offering. Since then, the pr
   <li>Cyclistic Marketing Analytics Team</li>
   <li>Lili Moreno - Director of Marketing</li>
 </ul>
-<h3><strong>Business Task</strong></h3>
+<h2><strong>Business Task</strong></h2>
 To determine the differences in how both annual members and casual riders use Cyclistic bikes and to use the insights derived from this to determine best marketing strategies that would convert casual riders to annual members.
-<h3><Strong>Data Source</Strong></h3>
+<h2><Strong>Data Source</Strong></h2>
 The data used would cover rider information spanning a one-year period from January 2022 to December 2022.
 The data has been made available by Motivate International Inc. with <a href="https://divvybikes.com/data-license-agreement">license</a>,and is originally stored in separate CSV files organized by the different months of the year <a href="https://divvy-tripdata.s3.amazonaws.com/index.html">here</a>!
+<h2><strong> Data Processing</strong></h2>
+I have choosen MySQL as my tool to clean, transform
 
 
 
