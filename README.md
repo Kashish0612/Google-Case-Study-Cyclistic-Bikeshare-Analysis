@@ -31,7 +31,8 @@ I have choosen MySQL as my tool to clean, transform and analyze the data
 </ul>
 You can see my data cleaning and manipulation stepls
 <ul>
-  <li><a href="">Link Text</a></li>
+  <li><a href="https://github.com/Kashish0612/Google-Case-Study-Cyclistic-Bikeshare-Analysis/blob/main/Data%20Importing.sql">Data Importing</a></li>
+  <a href="https://github.com/Kashish0612/Google-Case-Study-Cyclistic-Bikeshare-Analysis/blob/main/Data%20cleaning%20%26%20Transforimng.sql">Data cleaning & Transforming</a>
 </ul>
 
 
