@@ -17,7 +17,23 @@ To determine the differences in how both annual members and casual riders use Cy
 The data used would cover rider information spanning a one-year period from January 2022 to December 2022.
 The data has been made available by Motivate International Inc. with <a href="https://divvybikes.com/data-license-agreement">license</a>,and is originally stored in separate CSV files organized by the different months of the year <a href="https://divvy-tripdata.s3.amazonaws.com/index.html">here</a>!
 <h2><strong> Data Processing</strong></h2>
-I have choosen MySQL as my tool to clean, transform
+I have choosen MySQL as my tool to clean, transform and analyze the data
+<strong>Data_cleaning_Steps</strong>
+<ul>
+  <li>I created a table with proper data type and imported all csv files into single table.</li>
+  <li>Excluded Geographic data.</li>
+  <li>Removed Duplicate Rows.</li>
+  <li>Checked for typos and other anomolies.</li>
+  <li>Removed rows where start time is greater than the end time</li>
+  <li>Removed rows which had null values in start station and end station name.</li>
+  <li>Created new columns which had ride length duration, weekdays, months, hours in a days </li>
+  <li>Excluded outliers like trips with less than 1 min duration.</li>
+</ul>
+You can see my data cleaning and manipulation stepls
+<ul>
+  <li><a href="">Link Text</a></li>
+</ul>
+
 
 
 
