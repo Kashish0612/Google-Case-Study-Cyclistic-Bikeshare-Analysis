@@ -1,3 +1,3 @@
 This repo is about  the final deliverable for the Google Data Analytics Capstone project. I started this certification program through Coursera in June 2023 and completed it in Dec 2023. Throughout each course in the Google Data Analytics Certificate, I developed the skills such as structured thinking, Storytelling, Excel, Tableau, SQL, and R. Through this project I am demonstrating the skills needed to transition into a career in data analytics.
-<h3>Introduction</h3>
+<h3><strong>Introduction</strong></h3>
 The main purpose of this study is to analyze well cleaned and processed data and get insights. These insights would enable the Cyclistic Executive team make data driven decisions as regards marketing strategies that would be aimed at converting casual riders into annual riders.
