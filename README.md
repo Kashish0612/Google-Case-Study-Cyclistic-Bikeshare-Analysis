@@ -1,1 +1,1 @@
-Overview
+This repo is about  the final deliverable for the Google Data Analytics Capstone project. I started this certification program through Coursera in June 2023 and completed it in Dec 2023. Throughout each course in the Google Data Analytics Certificate, I developed the skills such as structured thinking, Storytelling, Excel, Tableau, SQL, and R. Through this project I am demonstrating the skills needed to transition into a career in data analytics.
