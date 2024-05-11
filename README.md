@@ -49,6 +49,47 @@ Explored and extracted following points from dataset
   <li>Top 5 crowded start and end station name.</li>
 </ul>
 You can check my analysis work <a href="https://github.com/Kashish0612/Google-Case-Study-Cyclistic-Bikeshare-Analysis/blob/main/bikeshare_analysis.sql">Bikshare Analysis</a>
+<h2><strong>Data Visualization</strong></h2>
+Tools used :- Power Query and Power Bi for chart visualization.
+<h3><strong>Total rides by each user type</strong></h3>
+
+![dash1](https://github.com/Kashish0612/Google-Case-Study-Cyclistic-Bikeshare-Analysis/assets/134590814/6178b6c8-7ecd-4550-a254-529a2c2a7341)
+
+With this we can see that Annual members share of 59% total rides, and Casual member share 40% of total rides.
+<h3><strong>Total rides by Bike type and User type</strong></h3>
+
+![dash 2](https://github.com/Kashish0612/Google-Case-Study-Cyclistic-Bikeshare-Analysis/assets/134590814/47f3c256-db52-448a-b5ce-457bef08f867)
+
+Classic Bikes were preferred among both customers types, making up 60% of the rides. Electric bikes made up 37% of rides. Only casual riders chose Docked bikes, making up only 4% of all rides taken. 
+<h3><strong>Most popular Bike Stations</strong></h3>
+
+![dash3](https://github.com/Kashish0612/Google-Case-Study-Cyclistic-Bikeshare-Analysis/assets/134590814/2d15593c-b38b-40f1-b3b7-1c8b9c874e39)
+
+Amongst Top 5 most crowded start station name, Streeter Dr & Grand Ave was most popular station overall.
+<h3><strong>Total Rides by Weekdays</strong></h3>
+
+![dash5](https://github.com/Kashish0612/Google-Case-Study-Cyclistic-Bikeshare-Analysis/assets/134590814/ef9dd63f-a81c-4b1f-a344-e2afe6f16a78)
+Casual riders rode most frequently on weekends, specifically Saturdays. Members rode consistently throughout the week peaking on Wednesday, indicating that members most likely use this service for purpose of work-related - like commuting or everyday to-dos. 
+<h3><strong>Total Rides by each Month</strong></h3>
+
+![dash6](https://github.com/Kashish0612/Google-Case-Study-Cyclistic-Bikeshare-Analysis/assets/134590814/028f6783-e212-433c-9f68-ff2ca3f28b15)
+In the middle to late summer months, particularly from July to September, biking activity peaked. Among casual riders, July saw the highest activity, whereas for members, August was the busiest. Conversely, winter, notably January, experienced the least biking activity for both groups. These findings suggest that both groups prefer biking during warmer months.
+<h3><strong>Total Rides per Hour</strong></h3>
+
+![dash7](https://github.com/Kashish0612/Google-Case-Study-Cyclistic-Bikeshare-Analysis/assets/134590814/fa81842a-550e-4e16-9ada-5a1456d45633)
+The hours are represented in a 24-hour clock starting from midnight (12 AM). The busiest time was from 4 PM to 6 PM. Members tended to use bikes more at 8 AM and 5 PM. Casual riders showed a gradual increase in bike usage from 12 PM to 5 PM, reaching a peak at 5 PM. Casual riders generally had longer ride lengths compared to members. 
+<h3><strong>Dashborad Created for the Company Cyclistic</strong></h3>
+
+![ss1](https://github.com/Kashish0612/Google-Case-Study-Cyclistic-Bikeshare-Analysis/assets/134590814/291a2229-3975-4710-9505-25770a4f2583)
+
+
+![ss2](https://github.com/Kashish0612/Google-Case-Study-Cyclistic-Bikeshare-Analysis/assets/134590814/25838df4-23c8-4fdc-8b09-4cece3b8e3fe)
+
+
+![ss3](https://github.com/Kashish0612/Google-Case-Study-Cyclistic-Bikeshare-Analysis/assets/134590814/10fb68c7-b5e7-49c9-9947-ce6215fc9d8c)
+
+Dashborad is uploaded to <a href="https://app.powerbi.com/links/6GzopzQsJw?ctid=9d71812b-a76c-451c-ab94-9d5d3383258e&pbi_source=linkShare&bookmarkGuid=61baa16f-bd01-4574-86ee-426fe79b2865">Power Bi</a> can be used by company for for live monitoring the data.
+
 
 
 
