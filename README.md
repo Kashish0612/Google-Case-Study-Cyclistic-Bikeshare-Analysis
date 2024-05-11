@@ -89,9 +89,10 @@ The hours are represented in a 24-hour clock starting from midnight (12 AM). The
 ![ss3](https://github.com/Kashish0612/Google-Case-Study-Cyclistic-Bikeshare-Analysis/assets/134590814/10fb68c7-b5e7-49c9-9947-ce6215fc9d8c)
 
 Dashborad is uploaded to <a href="https://app.powerbi.com/links/6GzopzQsJw?ctid=9d71812b-a76c-451c-ab94-9d5d3383258e&pbi_source=linkShare&bookmarkGuid=61baa16f-bd01-4574-86ee-426fe79b2865">Power Bi</a> can be used by company for for live monitoring the data.
-<br>
 <h3><strong>Recommendations</strong></h3>
 My recommendations for the Cyclistic Marketing Executive and Lily Moreno are
+<br>
+
 <ul>
   <li>Promotional Incentives - Offer limited-time discounts or incentives such as bonus, ride credits or referral reward to encourage casual riders to sign up for annual memberships.</li>
   <li>Trial Periods - Provide short-term trial period for casual riders to experience the benefits of annual memberships, allowing them to test the service before committing long-term.</li>
