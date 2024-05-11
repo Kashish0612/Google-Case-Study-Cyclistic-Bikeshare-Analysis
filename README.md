@@ -17,7 +17,7 @@ To determine the differences in how both annual members and casual riders use Cy
 The data used would cover rider information spanning a one-year period from January 2022 to December 2022.
 The data has been made available by Motivate International Inc. with <a href="https://divvybikes.com/data-license-agreement">license</a>,and is originally stored in separate CSV files organized by the different months of the year <a href="https://divvy-tripdata.s3.amazonaws.com/index.html">here</a>!
 <h2><strong> Data Processing</strong></h2>
-I have choosen MySQL as my tool to clean, transform and analyze the data
+I have choosen MySQL as my tool to clean and transform the data.
 <strong>Data_cleaning_Steps</strong>
 <ul>
   <li>I created a table with proper data type and imported all csv files into single table.</li>
@@ -34,6 +34,21 @@ You can see my data cleaning and manipulation stepls
   <li><a href="https://github.com/Kashish0612/Google-Case-Study-Cyclistic-Bikeshare-Analysis/blob/main/Data%20Importing.sql">Data Importing</a></li>
   <a href="https://github.com/Kashish0612/Google-Case-Study-Cyclistic-Bikeshare-Analysis/blob/main/Data%20cleaning%20%26%20Transforimng.sql">Data cleaning & Transforming</a>
 </ul>
+<h2><strong>Data Analyzing</strong></h2>
+I used MySQL as my tool for Analyzing my data. I wanted to analyze the pattern between two users i.e Casual users and Annual users.
+<strong>Analyzing_steps</strong>
+Explored and extracted following points from dataset
+<ul>
+  <li>Total count of rides made by Casual and Member users.</li>
+  <li>Total rides made on each day of week.</li>
+  <li>Calculated total,mean,max,min of of ride duration for each users.</li>
+  <li>Number of rides made on each months.</li>
+  <li>Number of rides made on each hour in a day.</li>
+  <li>Total number of users for each bike type. </li>
+  <li>Average ride length for weekdays , months and hour in a day.</li>
+  <li>Top 5 crowded start and end station name.</li>
+</ul>
+You can check my analysis work <a href="https://github.com/Kashish0612/Google-Case-Study-Cyclistic-Bikeshare-Analysis/blob/main/bikeshare_analysis.sql">Bikshare Analysis</a>
 
 
 
